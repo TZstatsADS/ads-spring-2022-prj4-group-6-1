@@ -13,7 +13,7 @@ Term: Spring 2022
 	+ Wang, Jiuru jw4150@columbia.edu
 	+ Wang, Xinran xw2809@columbia.edu
 
-+ Project summary: Our project implements the algorithms describled in the given paper Gamma, Fine-gamma and Fairness Aware Feature Selection (FFS). These models are trained and tested on the COMPAS and bank dataset.
++ Project summary: Our project implements the algorithms describled in the given paper Gamma, Fine-gamma and Fairness Aware Feature Selection (FFS). These models are trained and tested on the COMPAS dataset.
 	
 **Contribution statement**: 
 + Rishav and Xinran are responsible of A3. Jingwei, Ke and Jiuru worked for A7. 
