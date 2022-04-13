@@ -9,7 +9,7 @@ Term: Spring 2022
 + Team members
 	+ Agarwal, Rishav ra3141@columbia.edu
 	+ Liao, Jingwei jl5983@columbia.edu
-        + Liu, Ke kl3344@columbia.edu
+	+ Liu, Ke kl3344@columbia.edu
 	+ Wang, Jiuru jw4150@columbia.edu
 	+ Wang, Xinran xw2809@columbia.edu
 
