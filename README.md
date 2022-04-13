@@ -16,7 +16,7 @@ Term: Spring 2022
 + Project summary: Our project implements the algorithms describled in the given paper Gamma, Fine-gamma and Fairness Aware Feature Selection (FFS). These models are trained and tested on the COMPAS dataset.
 	
 **Contribution statement**: 
-+ Rishav and Xinran are responsible of A3. Jingwei, Ke and Jiuru worked for A7. 
++ Rishav and Xinran are responsible of A3. Jingwei, Ke and Jiuru worked for A7. Everyone works on Slides.
 + All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
